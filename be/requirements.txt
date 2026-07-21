@@ -49,4 +49,4 @@ cryptography==48.0.1
 
 bcrypt==5.0.0
 
-clerk-sdk-python==0.1.0
+
