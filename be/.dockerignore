@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.env
+
+.git
+.gitignore
+
+.idea
+.vscode
+
+coo_agent.db
+
+node_modules

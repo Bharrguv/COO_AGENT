@@ -1,0 +1,15 @@
+coo_agent.db
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+alembic/__pycache__/
+
+.pytest_cache/
+
+.idea/
+.vscode/
+
+*.sqlite3
