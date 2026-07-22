@@ -60,18 +60,16 @@ def health_check():
 def create_plan(
     request: PlanRequest,
     db: Session = Depends(get_db),
-    current_user=Depends(get_current_user),
 ):
     logger.info("Workflow started")
-    # logger.info(f"Current user: {current_user}")
+
     start = time.time()
-    # print(current_user)
 
     try:
         result = execute_workflow(
             goal=request.goal,
             db=db,
-            user_id=current_user["user_id"],
+            user_id="public-user",  # Temporary demo user
         )
 
         elapsed = round(time.time() - start, 2)
@@ -83,14 +81,12 @@ def create_plan(
         return result
 
     except Exception as e:
-        logger.exception(e)
+        logger.exception("Workflow failed")
 
         raise HTTPException(
             status_code=500,
-            detail="Failed to generate COO plan."
+            detail=f"Failed to generate COO plan: {str(e)}",
         )
-
-
 
 # Get All Plans
 
