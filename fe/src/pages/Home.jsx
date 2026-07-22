@@ -7,12 +7,12 @@ import { useAuth } from "@clerk/clerk-react";
 export default function Home() {
   const { plan } = usePlan();
   const { isLoaded, isSignedIn, userId } = useAuth();
-  console.log(plan);
-   console.log({
-    isLoaded,
-    isSignedIn,
-    userId,
-  });
+  // console.log(plan);
+  //  console.log({
+  //   isLoaded,
+  //   isSignedIn,
+  //   userId,
+  // });
   return (
     <LandingLayout>
       <Hero />
