@@ -15,7 +15,7 @@ app = FastAPI(
     version="1.0.0",
 )
 
-FRONTEND_URL = os.getenv("FRONTEND_URL", "http://localhost:5173")
+FRONTEND_URL = os.getenv("https://coo-agent-phi.vercel.app", "http://localhost:5173")
 
 app.add_middleware(
     CORSMiddleware,
