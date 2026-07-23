@@ -157,9 +157,7 @@ Supports
 
 #System Architecture
 
-<img width="502" height="741" alt="Image" src="https://github.com/user-attachments/assets/da5c4c9d-9486-4137-a596-f78d76655229" />
-<img width="460" height="547" alt="Image" src="https://github.com/user-attachments/assets/3d62d8cc-5f2a-4c83-a460-195e3b443e42" />
-<img width="280" height="342" alt="Image" src="https://github.com/user-attachments/assets/6a9b2d65-070a-4ffa-a7de-2a113f359976" />
+<img width="681" height="2316" alt="Image" src="https://github.com/user-attachments/assets/60e63fbb-016b-45ed-8b37-34bc0f85adbb" />
 
 System Architecture link: https://excalidraw.com/#json=B8kCVobqrWjOVp-pqaoxu,VwAKxgNoJxVTtKAxpXUUWg
 
