@@ -19,7 +19,13 @@ From strategic planning → task delegation → KPI generation → risk analysis
 
 <p align="center">
 
-<img src="demo.gif"/>
+<img width="1148" height="905" alt="Image" src="https://github.com/user-attachments/assets/e98c67d0-7ff4-4b10-b982-543b6c190f79" />
+<img width="1896" height="903" alt="Image" src="https://github.com/user-attachments/assets/9b794f65-2d06-4fd9-b320-2e1fa7320969" />
+<img width="1895" height="900" alt="Image" src="https://github.com/user-attachments/assets/25eb25fb-37e1-4677-9877-4a18b81886a5" />
+<img width="1891" height="906" alt="Image" src="https://github.com/user-attachments/assets/fad360e8-42a6-45fe-94eb-13bfacfc2c6b" />
+<img width="1882" height="896" alt="Image" src="https://github.com/user-attachments/assets/75511ff6-5695-442b-8ca1-c79f8c642cdd" />
+<img width="1881" height="905" alt="Image" src="https://github.com/user-attachments/assets/2c63d227-bf2c-4acf-b851-9769523974b9" />
+<img width="1886" height="891" alt="Image" src="https://github.com/user-attachments/assets/134e23ff-4c10-48cf-a071-59282890df80" />
 
 </p>
 
@@ -49,35 +55,6 @@ It acts like an operational executive by converting high-level startup ideas int
 
 Instead of generating text, it generates an operational plan.
 
-# 🎥 Demo
-
-## Dashboard
-
-(image)
-
----
-
-## Generate Startup Plan
-
-(image)
-
----
-
-## KPI Dashboard
-
-(image)
-
----
-
-## Risk Analysis
-
-(image)
-
----
-
-## Assignment Report
-
-(image)
 
 # ✨ Features
 
@@ -180,9 +157,11 @@ Supports
 
 #System Architecture
 
+<img width="502" height="741" alt="Image" src="https://github.com/user-attachments/assets/da5c4c9d-9486-4137-a596-f78d76655229" />
+<img width="460" height="547" alt="Image" src="https://github.com/user-attachments/assets/3d62d8cc-5f2a-4c83-a460-195e3b443e42" />
+<img width="280" height="342" alt="Image" src="https://github.com/user-attachments/assets/6a9b2d65-070a-4ffa-a7de-2a113f359976" />
 
-
-
+System Architecture link: https://excalidraw.com/#json=B8kCVobqrWjOVp-pqaoxu,VwAKxgNoJxVTtKAxpXUUWg
 
 # ⚙️ Tech Stack
 
